@@ -1,14 +1,26 @@
-layout_spectrum: 0.17485130578279495
-typography_spectrum: 0.7226386598777026
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2285587738733739
   brandStrength: 0.9900615853257477
-  lightness: 0.823190136346966
-  saturation: 0.22855877387337387
   rhythmicContrast: 0.9134283310268074
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  lightness: 0.823190136346966
+typography_spectrum: 0.1047261
+layout_spectrum: 0.9564983
 name: The Collection Corner
