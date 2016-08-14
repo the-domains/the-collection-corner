@@ -1,3 +1,20 @@
+typography_spectrum: 0.1047261
+color:
+  saturation: 0.2285587738733739
+  brandStrength: 0.9900615853257477
+  rhythmicContrast: 0.9134283310268074
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  lightness: 0.823190136346966
+layout_spectrum: 0.9564983
+author:
+  name: Dave McCutcheon
+  email: dave@thecollectioncorner.com
+name: The Collection Corner
 collections:
   - index:
       path: /
@@ -10,17 +27,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2285587738733739
-  brandStrength: 0.9900615853257477
-  rhythmicContrast: 0.9134283310268074
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  lightness: 0.823190136346966
-typography_spectrum: 0.1047261
-layout_spectrum: 0.9564983
-name: The Collection Corner
+title: Custom LED lighting for your Collectibles
