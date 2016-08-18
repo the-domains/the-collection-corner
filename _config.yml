@@ -14,7 +14,11 @@ layout_spectrum: 0.9564983
 author:
   name: Dave McCutcheon
   email: dave@thecollectioncorner.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68122077-f70d-4c5e-9feb-8b8695dd12a2.jpg
 name: The Collection Corner
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3396a45-88d3-41d1-b14e-0eab93c62044.jpg
 collections:
   - index:
       path: /
